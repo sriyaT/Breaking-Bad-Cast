@@ -76,6 +76,7 @@ input[type='text'] {
 
 .card h1 {
   font-size: 25px;
+
   border-bottom: 1px #fff solid;
   padding-bottom: 10px;
   margin-bottom: 10px;
@@ -109,9 +110,9 @@ input[type='text'] {
 }
 
 .card-back {
-  background-color: #333;
+  background-color: #d60269;
   color: white;
-  padding: 20px;
+  padding: 50px;
   transform: rotateY(180deg);
 }
 
